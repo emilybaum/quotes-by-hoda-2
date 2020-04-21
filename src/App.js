@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
       <title>News &amp; Documentary Emmy Awards New Approaches - Arts, Lifestyle &amp; Culture</title>
       </header>
 
