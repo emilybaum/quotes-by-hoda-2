@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff10473a.chunk.css",
+    "main.js": "/static/js/main.31fabd83.chunk.js",
+    "main.js.map": "/static/js/main.31fabd83.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2ebbf447.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2ebbf447.js.map",
+    "static/js/2.a15242a8.chunk.js": "/static/js/2.a15242a8.chunk.js",
+    "static/js/2.a15242a8.chunk.js.map": "/static/js/2.a15242a8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.80bf70fb7b1439366de6130a0eb5d6e8.js": "/precache-manifest.80bf70fb7b1439366de6130a0eb5d6e8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ff10473a.chunk.css.map": "/static/css/main.ff10473a.chunk.css.map",
+    "static/js/2.a15242a8.chunk.js.LICENSE.txt": "/static/js/2.a15242a8.chunk.js.LICENSE.txt",
+    "static/media/news_art_lifestyle_culture_41st.png": "/static/media/news_art_lifestyle_culture_41st.230f9734.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ebbf447.js",
+    "static/js/2.a15242a8.chunk.js",
+    "static/css/main.ff10473a.chunk.css",
+    "static/js/main.31fabd83.chunk.js"
+  ]
+}

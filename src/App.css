@@ -1,0 +1,51 @@
+body,
+    th {
+      font-family: Verdana;
+      font-size: 12px; 
+    }
+
+    td {
+      font-family: Verdana;
+      font-size: 12px;
+      padding: 3px;
+      vertical-align: middle;
+      border-width: 1px;
+      border-style: solid;     
+    }
+
+    .text-right {
+      text-align: right;
+      background-color: #D3D3D360;
+      text-decoration: bold;
+    }
+
+    .center {
+      text-align: center;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-weight: bold;
+    }
+
+    body {
+      background-image: url(img/background.gif);
+      padding-bottom: 50px;
+    }
+
+    .submission-table {
+      width: 600px;
+    }
+
+    .define-left {
+      width: 263px;
+    }
+
+    .define-right {
+      width: 337px;
+    }
+
